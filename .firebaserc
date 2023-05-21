@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "flutter-auth-a9bc4",
+    "messaging-firestore-mkurt": "flutter-auth-a9bc4"
+  },
+  "targets": {},
+  "etags": {}
+}

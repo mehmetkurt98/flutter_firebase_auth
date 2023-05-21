@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "259443553411",
+    "firebase_url": "https://flutter-auth-a9bc4-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "flutter-auth-a9bc4",
+    "storage_bucket": "flutter-auth-a9bc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259443553411:android:ba347bca3bd9c5a3d317b6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_cw_food_quality_tracking_system_version2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259443553411-tjq4vv7bpqjsjnl383o5e6n8fo6jrqn0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_cw_food_quality_tracking_system_version2",
+            "certificate_hash": "f2d951e8e1882248c1fa353b39b8c20ad7d71099"
+          }
+        },
+        {
+          "client_id": "259443553411-itqbd18cm6l7rl6ilkakrln5qpiue7lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYC_JFrNNdsjuVb7hUp3uYdSI17ibuMHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259443553411-itqbd18cm6l7rl6ilkakrln5qpiue7lq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
